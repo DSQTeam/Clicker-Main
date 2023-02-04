@@ -6,5 +6,17 @@
     Dragon,
     Flash,
     Zombie,
-    Treant
+    Treant,
+    Mechanic,
+    Void,
+    Water_Monster,
+    Spider_Mantis,
+    Freezer,
+    Armadillo_Porcupine,
+    ManaBeast,
+    Crystallis,
+    Meat_Elemental,
+    Air_Observer,
+    Night_Drifter,
+    Dire_wolf
 }
