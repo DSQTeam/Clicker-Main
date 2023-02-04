@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87f568ad85488464aa468f2337651a5b, type: 3}
+  m_Name: RobotHighArmor Boss
+  m_EditorClassIdentifier: 
+  MaxHealth: 225
+  Damage: 30
+  DamageType: {fileID: 11400000, guid: 928f446cf489ebb4bb68ca29b0062a03, type: 2}
+  CritDamageInPercent: 160
+  CritChance: 4
+  Armor: 80
+  DodgeChance: 0
+  AttackCooldown: 0.75
+  AttackCooldownSpread: 0.4
+  AttackModifiers: []
+  ManaRegen: 0
+  MaxMana: 0
+  Loot: {fileID: 0}
+  Prefab: {fileID: 0}

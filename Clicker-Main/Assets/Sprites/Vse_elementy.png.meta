@@ -1,0 +1,1885 @@
+fileFormatVersion: 2
+guid: 40129b9cebce88242978778801a70118
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6254604264092610099
+    second: Vse_elementy_0
+  - first:
+      213: 5160990551642644999
+    second: Vse_elementy_1
+  - first:
+      213: -8222011756424067283
+    second: Vse_elementy_2
+  - first:
+      213: 3739645521774059746
+    second: Vse_elementy_3
+  - first:
+      213: -3057453824738116507
+    second: Vse_elementy_4
+  - first:
+      213: -464934041551286491
+    second: Vse_elementy_5
+  - first:
+      213: 6868846942144234085
+    second: Vse_elementy_6
+  - first:
+      213: -6664265283790930401
+    second: Vse_elementy_7
+  - first:
+      213: 3475527591228819299
+    second: Vse_elementy_8
+  - first:
+      213: -927842016133243765
+    second: Vse_elementy_9
+  - first:
+      213: 839483781024577678
+    second: Vse_elementy_10
+  - first:
+      213: 1892545495645731453
+    second: Vse_elementy_11
+  - first:
+      213: -2768426489552075859
+    second: Vse_elementy_12
+  - first:
+      213: -3821680867925952492
+    second: Vse_elementy_13
+  - first:
+      213: -511900850988084142
+    second: Vse_elementy_14
+  - first:
+      213: 6625715935731194051
+    second: Vse_elementy_15
+  - first:
+      213: -8350718795474073371
+    second: Vse_elementy_16
+  - first:
+      213: -3689234538615262605
+    second: Vse_elementy_17
+  - first:
+      213: 2678075489404718810
+    second: Vse_elementy_18
+  - first:
+      213: -1025820212382481094
+    second: Vse_elementy_19
+  - first:
+      213: 7130038268283898395
+    second: Vse_elementy_20
+  - first:
+      213: -2157731165086096230
+    second: Vse_elementy_21
+  - first:
+      213: -1165193654245192446
+    second: Vse_elementy_22
+  - first:
+      213: -2044772198918040092
+    second: Vse_elementy_23
+  - first:
+      213: -4096829198141583800
+    second: Vse_elementy_24
+  - first:
+      213: 7258579812599667187
+    second: Vse_elementy_25
+  - first:
+      213: 2047747178382338182
+    second: Vse_elementy_26
+  - first:
+      213: -3550431267642496045
+    second: Vse_elementy_27
+  - first:
+      213: 2679339952450839754
+    second: Vse_elementy_28
+  - first:
+      213: -7921713589749954248
+    second: Vse_elementy_29
+  - first:
+      213: 3807673651061527408
+    second: Vse_elementy_30
+  - first:
+      213: -5695689730786941547
+    second: Vse_elementy_31
+  - first:
+      213: -7533027967872306666
+    second: Vse_elementy_32
+  - first:
+      213: -2703163605096213809
+    second: Vse_elementy_33
+  - first:
+      213: -8693078536251620985
+    second: Vse_elementy_34
+  - first:
+      213: 8558404677500007096
+    second: Vse_elementy_35
+  - first:
+      213: 5471480289349751930
+    second: Vse_elementy_36
+  - first:
+      213: -837961603744455194
+    second: Vse_elementy_37
+  - first:
+      213: -3780041419848670194
+    second: Vse_elementy_38
+  - first:
+      213: 4969746129483748838
+    second: Vse_elementy_39
+  - first:
+      213: -1924969208661543499
+    second: Vse_elementy_40
+  - first:
+      213: -6799451282727491082
+    second: Vse_elementy_41
+  - first:
+      213: -4738402799256960701
+    second: Vse_elementy_42
+  - first:
+      213: 1190545090904410892
+    second: Vse_elementy_43
+  - first:
+      213: 4531842850690376689
+    second: Vse_elementy_44
+  - first:
+      213: -2776226476989197092
+    second: Vse_elementy_45
+  - first:
+      213: -863072886946820226
+    second: Vse_elementy_46
+  - first:
+      213: -1449854837483744589
+    second: Vse_elementy_47
+  - first:
+      213: 2506696675685744896
+    second: Vse_elementy_48
+  - first:
+      213: -8355234754021189122
+    second: Vse_elementy_49
+  - first:
+      213: 7609448472795767109
+    second: Vse_elementy_50
+  - first:
+      213: 3415171765823666337
+    second: Vse_elementy_51
+  - first:
+      213: 4007998157287286335
+    second: Vse_elementy_52
+  - first:
+      213: -198741291892476627
+    second: Vse_elementy_53
+  - first:
+      213: 4925242777342390485
+    second: Vse_elementy_54
+  - first:
+      213: -1135389070101149004
+    second: Vse_elementy_55
+  - first:
+      213: -2409247935011151225
+    second: Vse_elementy_56
+  - first:
+      213: 8489389203045978038
+    second: Vse_elementy_57
+  - first:
+      213: 3493087910146135019
+    second: Vse_elementy_58
+  - first:
+      213: -7437725403535460412
+    second: Vse_elementy_59
+  - first:
+      213: -8789629249238341079
+    second: Vse_elementy_60
+  - first:
+      213: -5752010043379181264
+    second: Vse_elementy_61
+  - first:
+      213: -4010906642651546197
+    second: Vse_elementy_62
+  - first:
+      213: -2520363771767985396
+    second: Vse_elementy_63
+  - first:
+      213: 3641124388638524608
+    second: Vse_elementy_64
+  - first:
+      213: -3815444596478473263
+    second: Vse_elementy_65
+  - first:
+      213: -4424856124426059463
+    second: Vse_elementy_66
+  - first:
+      213: -3926217775487323959
+    second: Vse_elementy_67
+  - first:
+      213: -4040640621957649552
+    second: Vse_elementy_68
+  - first:
+      213: -4722985845825924928
+    second: Vse_elementy_69
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Vse_elementy_0
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 978
+        width: 62
+        height: 64
+      alignment: 9
+      pivot: {x: 0.28736016, y: 0.14859772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e22eb9071dcc650800000000000000
+      internalID: 6254604264092610099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_1
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 824
+        width: 126
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702aec700958f9740800000000000000
+      internalID: 5160990551642644999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_2
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 990
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27024f9edb85ed80800000000000000
+      internalID: -8222011756424067283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_3
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 976
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0293fd9c3e5e330800000000000000
+      internalID: 3739645521774059746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_4
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 985
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c335b02fdb195d0800000000000000
+      internalID: -3057453824738116507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_5
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 990
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f4959d3f83c89f0800000000000000
+      internalID: -464934041551286491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_6
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 962
+        width: 102
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5620903b6eb035f50800000000000000
+      internalID: 6868846942144234085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_7
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 930
+        width: 108
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e7cae7806c383a0800000000000000
+      internalID: -6664265283790930401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_8
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 828
+        width: 124
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367434a1eed8b3030800000000000000
+      internalID: 3475527591228819299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_9
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 958
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c12bc2a94af13f0800000000000000
+      internalID: -927842016133243765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_10
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 860
+        width: 78
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88fba21d0276ab00800000000000000
+      internalID: 839483781024577678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_11
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 972
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7aba35e91ca34a10800000000000000
+      internalID: 1892545495645731453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_12
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 971
+        width: 43
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3877786c29499d0800000000000000
+      internalID: -2768426489552075859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_13
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 978
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418fd5eaf79a6fac0800000000000000
+      internalID: -3821680867925952492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_14
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 976
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25492a063ec55e8f0800000000000000
+      internalID: -511900850988084142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_15
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 981
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c817ebf98543fb50800000000000000
+      internalID: 6625715935731194051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_16
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 924
+        width: 98
+        height: 58
+      alignment: 9
+      pivot: {x: 0.9162473, y: 0.4564956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e80790ef794c1c80800000000000000
+      internalID: -8350718795474073371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 904
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3723cb8cbb43dccc0800000000000000
+      internalID: -3689234538615262605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_18
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 886
+        width: 56
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade06a3f77f6a2520800000000000000
+      internalID: 2678075489404718810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_19
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 945
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35c68da3fd83c1f0800000000000000
+      internalID: -1025820212382481094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_20
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 909
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ac008470cf2f260800000000000000
+      internalID: 7130038268283898395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_21
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 940
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94e04000f23e02e0800000000000000
+      internalID: -2157731165086096230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_22
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 954
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d0d208b8664dfe0800000000000000
+      internalID: -1165193654245192446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_23
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 800
+        width: 60
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e555ecc4828f93e0800000000000000
+      internalID: -2044772198918040092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_24
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 926
+        width: 110
+        height: 52
+      alignment: 9
+      pivot: {x: 0.067990944, y: 0.5525665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e825bdc832527c0800000000000000
+      internalID: -4096829198141583800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 900
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f913d7c1e7abb460800000000000000
+      internalID: 7258579812599667187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_26
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 857
+        width: 22
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688a945953f0b6c10800000000000000
+      internalID: 2047747178382338182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_27
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 919
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbaab4b2955abec0800000000000000
+      internalID: -3550431267642496045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_28
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 814
+        width: 82
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac42852bd7dee2520800000000000000
+      internalID: 2679339952450839754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_29
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 888
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839c19e067b601290800000000000000
+      internalID: -7921713589749954248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_30
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 868
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0731320030397d430800000000000000
+      internalID: 3807673651061527408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_31
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 890
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595aa9ded58d4f0b0800000000000000
+      internalID: -5695689730786941547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_32
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 881
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61273e399fe457790800000000000000
+      internalID: -7533027967872306666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_33
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 888
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2d97ce50f6c7ad0800000000000000
+      internalID: -2703163605096213809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_34
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 796
+        width: 44
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7814622112bfb5780800000000000000
+      internalID: -8693078536251620985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_35
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 798
+        width: 78
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2fd66b5bf85c670800000000000000
+      internalID: 8558404677500007096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_36
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 810
+        width: 56
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a745e32855a9eeb40800000000000000
+      internalID: 5471480289349751930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_37
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 802
+        width: 32
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e525617c56fe54f0800000000000000
+      internalID: -837961603744455194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_38
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 871
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0428ad2b589a8bc0800000000000000
+      internalID: -3780041419848670194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_39
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 864
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e550cf16c518f440800000000000000
+      internalID: 4969746129483748838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_40
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 861
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5f92224b22945e0800000000000000
+      internalID: -1924969208661543499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_41
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 831
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f92479551f73a1a0800000000000000
+      internalID: -6799451282727491082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_42
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 854
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341829b52cfcd3eb0800000000000000
+      internalID: -4738402799256960701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_43
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 857
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b4170d37aa58010800000000000000
+      internalID: 1190545090904410892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_44
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 850
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f32b4ddf0754ee30800000000000000
+      internalID: 4531842850690376689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_45
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 845
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4560f6abcd879d0800000000000000
+      internalID: -2776226476989197092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_46
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 833
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f834638cfb504f0800000000000000
+      internalID: -863072886946820226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_47
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 784
+        width: 64
+        height: 66
+      alignment: 9
+      pivot: {x: 0.45139885, y: 0.98351127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b256ebf4b411ebe0800000000000000
+      internalID: -1449854837483744589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_48
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 685
+        width: 210
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001c6e1785399c220800000000000000
+      internalID: 2506696675685744896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_49
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 750
+        width: 86
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef99197524e3c0c80800000000000000
+      internalID: -8355234754021189122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_50
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 662
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54161a5c1113a9960800000000000000
+      internalID: 7609448472795767109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_51
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 662
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8fcdc60a0256f20800000000000000
+      internalID: 3415171765823666337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_52
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 662
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f366789b6154f9730800000000000000
+      internalID: 4007998157287286335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_53
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 588
+        width: 116
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25fb8619dded3df0800000000000000
+      internalID: -198741291892476627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_54
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 688
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d03d00063af95440800000000000000
+      internalID: 4925242777342390485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_55
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 610
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba82c208a94e30f0800000000000000
+      internalID: -1135389070101149004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 610
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78221d194c1a09ed0800000000000000
+      internalID: -2409247935011151225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_57
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 610
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf879f508e50d570800000000000000
+      internalID: 8489389203045978038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_58
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 556
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3d87572f0f97030800000000000000
+      internalID: 3493087910146135019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_59
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 644
+        width: 68
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7be59f624e7c890800000000000000
+      internalID: -7437725403535460412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_60
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 562
+        width: 86
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ae3cb64c6f40680800000000000000
+      internalID: -8789629249238341079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_61
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 626
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03997eb4751cc20b0800000000000000
+      internalID: -5752010043379181264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_62
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 568
+        width: 58
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badff71c8a56658c0800000000000000
+      internalID: -4010906642651546197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_63
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 554
+        width: 38
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b6107c08ed50dd0800000000000000
+      internalID: -2520363771767985396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_64
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 606
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c48fc7075fd78230800000000000000
+      internalID: 3641124388638524608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_65
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 558
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db87b6ca51dc0bc0800000000000000
+      internalID: -3815444596478473263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_66
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 558
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9318f597cc0c792c0800000000000000
+      internalID: -4424856124426059463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_67
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 558
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0f0453cb54389c0800000000000000
+      internalID: -3926217775487323959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_68
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 488
+        width: 142
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b633733c2cce7c0800000000000000
+      internalID: -4040640621957649552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vse_elementy_69
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 492
+        width: 60
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0195c8565947eb0800000000000000
+      internalID: -4722985845825924928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Vse_elementy_8: 3475527591228819299
+      Vse_elementy_46: -863072886946820226
+      Vse_elementy_15: 6625715935731194051
+      Vse_elementy_53: -198741291892476627
+      Vse_elementy_17: -3689234538615262605
+      Vse_elementy_6: 6868846942144234085
+      Vse_elementy_18: 2678075489404718810
+      Vse_elementy_29: -7921713589749954248
+      Vse_elementy_58: 3493087910146135019
+      Vse_elementy_66: -4424856124426059463
+      Vse_elementy_24: -4096829198141583800
+      Vse_elementy_35: 8558404677500007096
+      Vse_elementy_33: -2703163605096213809
+      Vse_elementy_20: 7130038268283898395
+      Vse_elementy_37: -837961603744455194
+      Vse_elementy_9: -927842016133243765
+      Vse_elementy_11: 1892545495645731453
+      Vse_elementy_13: -3821680867925952492
+      Vse_elementy_16: -8350718795474073371
+      Vse_elementy_40: -1924969208661543499
+      Vse_elementy_44: 4531842850690376689
+      Vse_elementy_12: -2768426489552075859
+      Vse_elementy_14: -511900850988084142
+      Vse_elementy_68: -4040640621957649552
+      Vse_elementy_63: -2520363771767985396
+      Vse_elementy_47: -1449854837483744589
+      Vse_elementy_65: -3815444596478473263
+      Vse_elementy_42: -4738402799256960701
+      Vse_elementy_26: 2047747178382338182
+      Vse_elementy_21: -2157731165086096230
+      Vse_elementy_28: 2679339952450839754
+      Vse_elementy_49: -8355234754021189122
+      Vse_elementy_25: 7258579812599667187
+      Vse_elementy_45: -2776226476989197092
+      Vse_elementy_51: 3415171765823666337
+      Vse_elementy_38: -3780041419848670194
+      Vse_elementy_59: -7437725403535460412
+      Vse_elementy_54: 4925242777342390485
+      Vse_elementy_61: -5752010043379181264
+      Vse_elementy_43: 1190545090904410892
+      Vse_elementy_22: -1165193654245192446
+      Vse_elementy_69: -4722985845825924928
+      Vse_elementy_7: -6664265283790930401
+      Vse_elementy_10: 839483781024577678
+      Vse_elementy_48: 2506696675685744896
+      Vse_elementy_60: -8789629249238341079
+      Vse_elementy_19: -1025820212382481094
+      Vse_elementy_52: 4007998157287286335
+      Vse_elementy_2: -8222011756424067283
+      Vse_elementy_50: 7609448472795767109
+      Vse_elementy_1: 5160990551642644999
+      Vse_elementy_32: -7533027967872306666
+      Vse_elementy_5: -464934041551286491
+      Vse_elementy_34: -8693078536251620985
+      Vse_elementy_3: 3739645521774059746
+      Vse_elementy_55: -1135389070101149004
+      Vse_elementy_57: 8489389203045978038
+      Vse_elementy_62: -4010906642651546197
+      Vse_elementy_27: -3550431267642496045
+      Vse_elementy_4: -3057453824738116507
+      Vse_elementy_0: 6254604264092610099
+      Vse_elementy_39: 4969746129483748838
+      Vse_elementy_23: -2044772198918040092
+      Vse_elementy_56: -2409247935011151225
+      Vse_elementy_36: 5471480289349751930
+      Vse_elementy_41: -6799451282727491082
+      Vse_elementy_64: 3641124388638524608
+      Vse_elementy_30: 3807673651061527408
+      Vse_elementy_31: -5695689730786941547
+      Vse_elementy_67: -3926217775487323959
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

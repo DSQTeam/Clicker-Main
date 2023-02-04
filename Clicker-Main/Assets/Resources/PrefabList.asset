@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f4680258883e484cb9b6adc14e3b173, type: 3}
+  m_Name: PrefabList
+  m_EditorClassIdentifier: 
+  PlayerView: {fileID: 7667246527317566100, guid: b2247612b08976a4ab8e651cd354ea87, type: 3}
+  DamageView: {fileID: -2024422094142473639, guid: 199b14ce6fd13d14589b66da96a8414b, type: 3}
+  Lootbox: {fileID: 262684408568793947, guid: cdf4e466013cf264c8daf14eb8f1cd6f, type: 3}
+  DodgeView: {fileID: 7029422813035081569, guid: d582bfd3db9f98745b98da862a84586d, type: 3}
+  TotalValueView: {fileID: 7029422813035081569, guid: da289e8bf0a00ab4dbe394924924f1ed, type: 3}
+  StormCloud: {fileID: 4883404997970707115, guid: eaa2bc511cb46984fa44c7b37dfe326f, type: 3}
+  HealthAccumulator: {fileID: 2642191295866699787, guid: 0d8679beef7054e43bfa76823674f242, type: 3}

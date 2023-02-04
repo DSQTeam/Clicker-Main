@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5003c1181800874439cd4b9d3ec1156f, type: 3}
+  m_Name: _Bonus Library
+  m_EditorClassIdentifier: 
+  _setBonuses:
+  - _setId: 5
+    _bonuses:
+    - {fileID: 11400000, guid: fea7bbd6a6579a94eb82e793f61cdfd5, type: 2}
+    - {fileID: 11400000, guid: 1f2b5c23afe046b449863720e68ccbda, type: 2}
+    - {fileID: 11400000, guid: d88009cfd74971949aee6b5429ea71db, type: 2}
+  - _setId: 2
+    _bonuses:
+    - {fileID: 11400000, guid: 92681d53ebf449648ba8630e00f92825, type: 2}
+    - {fileID: 11400000, guid: 48173a9544bd14f49b682e9921db40c1, type: 2}
+  - _setId: 4
+    _bonuses:
+    - {fileID: 11400000, guid: 3cce8c5c5792add48945e1de6c9fdb69, type: 2}
+  - _setId: 6
+    _bonuses:
+    - {fileID: 11400000, guid: 9abaefc50e7636a41a496b9ea5ef1935, type: 2}
+    - {fileID: 11400000, guid: 4a6440c69da44474397f9d06ea9eaf1b, type: 2}
+  - _setId: 3
+    _bonuses:
+    - {fileID: 11400000, guid: d76484b9069c76845a13f3c419369e20, type: 2}

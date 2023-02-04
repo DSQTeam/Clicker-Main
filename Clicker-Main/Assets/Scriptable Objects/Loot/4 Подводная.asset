@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72ee3312bff9e3b47ac4c7ba5b81171e, type: 3}
+  m_Name: "4 \u041F\u043E\u0434\u0432\u043E\u0434\u043D\u0430\u044F"
+  m_EditorClassIdentifier: 
+  TotalCoinsValue: 0
+  CoinDrops: []
+  LootBoxDropChance: 0
+  BodyParts:
+  - {fileID: 11400000, guid: 001fc2ab72867274597eaead498cc49a, type: 2}
+  - {fileID: 11400000, guid: cbf2af559c22a674ba116a4ddffa11ab, type: 2}
+  - {fileID: 11400000, guid: 32a0e30bafd6e1b4495a5f98b4508f53, type: 2}
+  - {fileID: 11400000, guid: 1127ec0601ad27e4da784a110c4f79fa, type: 2}
+  - {fileID: 11400000, guid: 7735435d1e0500548ae1311e64acf6e5, type: 2}
+  - {fileID: 11400000, guid: 2cf2fbbfeab390e40aeadf4327605879, type: 2}
+  - {fileID: 11400000, guid: a7bed3a7330d86b42aa0eef44f8c31e8, type: 2}
+  - {fileID: 11400000, guid: 22e3a949f2af22f47a218792ff193fd2, type: 2}
+  - {fileID: 11400000, guid: 363c98c9b84cb7949a4845e5d50a71f5, type: 2}
+  - {fileID: 11400000, guid: e525a0e6d376e87439ea183430828e0b, type: 2}
+  - {fileID: 11400000, guid: 2e93d36fb679c4042bb3e17b1417ab7d, type: 2}
+  - {fileID: 11400000, guid: 7b504cac88fd596419795cbe40576cfd, type: 2}
+  LootBoxPrefab: {fileID: 0}

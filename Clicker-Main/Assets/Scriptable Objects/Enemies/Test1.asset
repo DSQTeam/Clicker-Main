@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87f568ad85488464aa468f2337651a5b, type: 3}
+  m_Name: Test1
+  m_EditorClassIdentifier: 
+  MaxHealth: 70
+  Damage: 5
+  DamageType: {fileID: 11400000, guid: 928f446cf489ebb4bb68ca29b0062a03, type: 2}
+  CritDamageInPercent: 120
+  CritChance: 10
+  Armor: 30
+  DodgeChance: 10
+  AttackCooldown: 0.7
+  AttackCooldownSpread: 0.2
+  StatIncreasePercent: 20
+  AttackModifiers: []
+  ManaRegen: 0
+  MaxMana: 0
+  Loot: {fileID: 11400000, guid: e067d3e4955cede468d297f1be6a08da, type: 2}
+  Prefab: {fileID: 1149611556207841153, guid: 489a2fb16cf6b7249b60f33287e17a2a, type: 3}

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4cb235669623e94393ba23389f7ea9d, type: 3}
+  m_Name: _Locations
+  m_EditorClassIdentifier: 
+  StartPriceForWave: 1000
+  PriceIncreasePercent: 20
+  Locations:
+  - {fileID: 11400000, guid: 0220d9cd2587436468971b701d1a8c99, type: 2}
+  - {fileID: 11400000, guid: bd32f83fb6211a9499587b110caca6fb, type: 2}
+  - {fileID: 11400000, guid: d69c5eddf92309649b570d38adef2007, type: 2}
+  - {fileID: 11400000, guid: 915597bc8a760ff41952b497f77a5b06, type: 2}
+  - {fileID: 11400000, guid: 9a263203576a6f54ba6da7f6085ace9f, type: 2}
+  - {fileID: 11400000, guid: b585037cef0c00c4c85d7ad717c514aa, type: 2}
+  - {fileID: 11400000, guid: 0cd0e534a9250454db8bcf0d6d1de920, type: 2}
+  - {fileID: 11400000, guid: e989ba10a95c0d2418ba663e9a050862, type: 2}
+  - {fileID: 11400000, guid: 8257e9645b8125a408529e9cf689a146, type: 2}

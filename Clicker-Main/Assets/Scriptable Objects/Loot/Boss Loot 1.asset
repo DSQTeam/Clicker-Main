@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72ee3312bff9e3b47ac4c7ba5b81171e, type: 3}
+  m_Name: Boss Loot 1
+  m_EditorClassIdentifier: 
+  TotalCoinsValue: 445
+  CoinDrops:
+  - Amount: 5
+    Prefab: {fileID: 8588025937413830824, guid: bdb8e7e5326967845bc0dc8d8cca8cf1, type: 3}
+  - Amount: 5
+    Prefab: {fileID: 8429052649815129489, guid: 63a123340f24fa64a911e816d3b426bb, type: 3}
+  LootBoxDropChance: 44
+  BodyParts:
+  - {fileID: 11400000, guid: 1ba8388d3ade93b4cb7de61a7d0cff22, type: 2}
+  LootBoxPrefab: {fileID: 262684408568793947, guid: cdf4e466013cf264c8daf14eb8f1cd6f, type: 3}

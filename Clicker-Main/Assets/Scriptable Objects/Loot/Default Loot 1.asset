@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72ee3312bff9e3b47ac4c7ba5b81171e, type: 3}
+  m_Name: Default Loot 1
+  m_EditorClassIdentifier: 
+  TotalCoinsValue: 138
+  CoinDrops:
+  - Amount: 2
+    Prefab: {fileID: 8429052649815129489, guid: 63a123340f24fa64a911e816d3b426bb, type: 3}
+  LootBoxDropChance: 68
+  BodyParts:
+  - {fileID: 11400000, guid: d91a66aa08e1a484880a8a70a55f01e0, type: 2}
+  - {fileID: 11400000, guid: 4212f151bf23b2b4eb8db49cf607bcaa, type: 2}
+  - {fileID: 11400000, guid: 1ba8388d3ade93b4cb7de61a7d0cff22, type: 2}
+  - {fileID: 11400000, guid: 45b1e820105697a47889cda33eeb7867, type: 2}
+  LootBoxPrefab: {fileID: 262684408568793947, guid: cdf4e466013cf264c8daf14eb8f1cd6f, type: 3}
