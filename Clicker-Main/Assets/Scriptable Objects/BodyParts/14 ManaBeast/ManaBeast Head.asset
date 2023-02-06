@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: ManaBeast Head
   m_EditorClassIdentifier: 
   _head:
-    _setId: 0
+    _setId: 13
     _level: 0
     _icon: {fileID: 0}
     _label: ManaBeast Head
@@ -23,7 +23,6 @@ MonoBehaviour:
       _stat:
         UpgradingSettings:
           UpgradingPercent: 0
-          Coefficient: 1
           UpgradingAction: 0
           MaxValue: 0
           MinValue: 0
@@ -34,7 +33,6 @@ MonoBehaviour:
       _stat:
         UpgradingSettings:
           UpgradingPercent: 0
-          Coefficient: 1
           UpgradingAction: 0
           MaxValue: 0
           MinValue: 0
@@ -47,7 +45,6 @@ MonoBehaviour:
       _stat:
         UpgradingSettings:
           UpgradingPercent: 0
-          Coefficient: 1
           UpgradingAction: 0
           MaxValue: 0
           MinValue: 600
@@ -58,9 +55,7 @@ MonoBehaviour:
       _stat:
         UpgradingSettings:
           UpgradingPercent: 0
-          Coefficient: 1
           UpgradingAction: 0
           MaxValue: 12
           MinValue: 12
         _value: 12
-  _spells: []

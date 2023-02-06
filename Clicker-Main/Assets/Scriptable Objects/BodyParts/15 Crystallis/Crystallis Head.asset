@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Crystallis Head
   m_EditorClassIdentifier: 
   _head:
-    _setId: 0
+    _setId: 14
     _level: 0
     _icon: {fileID: 0}
     _label: Crystallis Head
@@ -23,7 +23,6 @@ MonoBehaviour:
       _stat:
         UpgradingSettings:
           UpgradingPercent: 0
-          Coefficient: 1
           UpgradingAction: 0
           MaxValue: 0
           MinValue: 0
@@ -34,7 +33,6 @@ MonoBehaviour:
       _stat:
         UpgradingSettings:
           UpgradingPercent: 0
-          Coefficient: 1
           UpgradingAction: 0
           MaxValue: 0
           MinValue: 0
@@ -47,7 +45,6 @@ MonoBehaviour:
       _stat:
         UpgradingSettings:
           UpgradingPercent: 0
-          Coefficient: 1
           UpgradingAction: 0
           MaxValue: 0
           MinValue: 100
@@ -58,9 +55,7 @@ MonoBehaviour:
       _stat:
         UpgradingSettings:
           UpgradingPercent: 0
-          Coefficient: 1
           UpgradingAction: 0
           MaxValue: 2
           MinValue: 2
         _value: 2
-  _spells: []

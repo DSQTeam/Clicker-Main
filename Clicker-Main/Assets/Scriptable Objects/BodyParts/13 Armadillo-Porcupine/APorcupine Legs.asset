@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: APorcupine Legs
   m_EditorClassIdentifier: 
   Legs:
-    _setId: 0
+    _setId: 12
     _level: 0
     _icon: {fileID: 0}
     _label: Armadillo-Porcupine Legs
@@ -23,7 +23,6 @@ MonoBehaviour:
       _stat:
         UpgradingSettings:
           UpgradingPercent: 0
-          Coefficient: 1
           UpgradingAction: 0
           MaxValue: 0
           MinValue: 0
@@ -34,7 +33,6 @@ MonoBehaviour:
       _stat:
         UpgradingSettings:
           UpgradingPercent: 0
-          Coefficient: 1
           UpgradingAction: 0
           MaxValue: 0
           MinValue: 0
@@ -45,7 +43,6 @@ MonoBehaviour:
       _stat:
         UpgradingSettings:
           UpgradingPercent: 0.009
-          Coefficient: 1
           UpgradingAction: 0
           MaxValue: 10
           MinValue: 1
@@ -56,7 +53,6 @@ MonoBehaviour:
       _stat:
         UpgradingSettings:
           UpgradingPercent: 0
-          Coefficient: 1
           UpgradingAction: 0
           MaxValue: 150
           MinValue: 150
@@ -67,7 +63,6 @@ MonoBehaviour:
       _stat:
         UpgradingSettings:
           UpgradingPercent: 0.009
-          Coefficient: 1
           UpgradingAction: 0
           MaxValue: 10
           MinValue: 1

@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9b40cde354951eb408abc79a97296dff, type: 3}
-  m_Name: Wolf Legs
+  m_Name: DWolf Legs
   m_EditorClassIdentifier: 
   Legs:
-    _setId: 0
+    _setId: 18
     _level: 0
     _icon: {fileID: 0}
     _label: DireWolf Legs
@@ -23,7 +23,6 @@ MonoBehaviour:
       _stat:
         UpgradingSettings:
           UpgradingPercent: 0
-          Coefficient: 1
           UpgradingAction: 0
           MaxValue: 0
           MinValue: 0
@@ -34,7 +33,6 @@ MonoBehaviour:
       _stat:
         UpgradingSettings:
           UpgradingPercent: 0
-          Coefficient: 1
           UpgradingAction: 0
           MaxValue: 0
           MinValue: 0
@@ -45,7 +43,6 @@ MonoBehaviour:
       _stat:
         UpgradingSettings:
           UpgradingPercent: 0.012
-          Coefficient: 1
           UpgradingAction: 0
           MaxValue: 15
           MinValue: 3
@@ -56,7 +53,6 @@ MonoBehaviour:
       _stat:
         UpgradingSettings:
           UpgradingPercent: 0
-          Coefficient: 1
           UpgradingAction: 0
           MaxValue: 150
           MinValue: 150
@@ -67,7 +63,6 @@ MonoBehaviour:
       _stat:
         UpgradingSettings:
           UpgradingPercent: 0.014
-          Coefficient: 1
           UpgradingAction: 0
           MaxValue: 15
           MinValue: 1

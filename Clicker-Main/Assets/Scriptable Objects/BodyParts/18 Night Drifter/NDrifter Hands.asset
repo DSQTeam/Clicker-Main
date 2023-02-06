@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: NDrifter Hands
   m_EditorClassIdentifier: 
   _hands:
-    _setId: 0
+    _setId: 17
     _level: 0
     _icon: {fileID: 0}
     _label: NightDrifter Hands

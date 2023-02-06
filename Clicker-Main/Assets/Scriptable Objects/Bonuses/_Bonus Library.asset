@@ -32,3 +32,21 @@ MonoBehaviour:
   - _setId: 3
     _bonuses:
     - {fileID: 11400000, guid: d76484b9069c76845a13f3c419369e20, type: 2}
+  - _setId: 8
+    _bonuses: []
+  - _setId: 9
+    _bonuses: []
+  - _setId: 10
+    _bonuses: []
+  - _setId: 11
+    _bonuses: []
+  - _setId: 12
+    _bonuses: []
+  - _setId: 13
+    _bonuses: []
+  - _setId: 15
+    _bonuses: []
+  - _setId: 17
+    _bonuses: []
+  - _setId: 18
+    _bonuses: []

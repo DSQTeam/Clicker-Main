@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: AObserver Hands
   m_EditorClassIdentifier: 
   _hands:
-    _setId: 0
+    _setId: 16
     _level: 0
     _icon: {fileID: 0}
     _label: Air Observer Hands
@@ -23,7 +23,6 @@ MonoBehaviour:
       _stat:
         UpgradingSettings:
           UpgradingPercent: 0
-          Coefficient: 1
           UpgradingAction: 0
           MaxValue: 0
           MinValue: 0
@@ -34,7 +33,6 @@ MonoBehaviour:
       _stat:
         UpgradingSettings:
           UpgradingPercent: 0
-          Coefficient: 1
           UpgradingAction: 0
           MaxValue: 0
           MinValue: 0
@@ -47,20 +45,18 @@ MonoBehaviour:
       _stat:
         UpgradingSettings:
           UpgradingPercent: 0
-          Coefficient: 1
           UpgradingAction: 0
           MaxValue: 0
           MinValue: 35
         _value: 35
+    _damageType: {fileID: 0}
     _autoAttackCooldown:
       _upgradingPerLevel: 1
       _statName: 6
       _stat:
         UpgradingSettings:
           UpgradingPercent: 0
-          Coefficient: 1
           UpgradingAction: 0
           MaxValue: 99999
           MinValue: 99999
         _value: 99999
-  _attackModifiers: []
