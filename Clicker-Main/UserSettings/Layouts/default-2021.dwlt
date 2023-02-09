@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 87
+  controlID: 17
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 88
+  controlID: 18
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 89
+  controlID: 19
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -317,22 +317,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scriptable Objects/Bonuses
+    - Assets/Scriptable Objects/Spells/Player Spells
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scriptable Objects/Bonuses
+  - Assets/Scriptable Objects/Spells/Player Spells
   m_LastFoldersGridSize: -1
   m_LastProjectPath: W:\Unity Projects\Clicker-Main\Clicker-Main
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 258}
-    m_SelectedIDs: de5e0000
-    m_LastClickedID: 24286
-    m_ExpandedIDs: 00000000a05e0000a25e0000a45e0000e85e0000ea5e0000
+    scrollPos: {x: 0, y: 594}
+    m_SelectedIDs: f85e0000
+    m_LastClickedID: 24312
+    m_ExpandedIDs: 00000000a05e0000a25e0000a45e0000e25e0000ec5e0000ee5e0000f85e00000c5f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -404,7 +404,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 5}
+      m_ClientGUIView: {fileID: 11}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -488,7 +488,7 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: f85e0000
       m_LastClickedID: 0
       m_ExpandedIDs: 2afbffff
       m_RenameOverlay:
@@ -763,7 +763,7 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: 0.293807, y: -0.29746848, z: 0.18796991}
     speed: 2
-    m_Value: {x: 0.35986954, y: -0.2877027, z: 0.18543659}
+    m_Value: {x: 0.293807, y: -0.29746848, z: 0.18796991}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -816,7 +816,7 @@ MonoBehaviour:
   m_Size:
     m_Target: 5.376344
     speed: 2
-    m_Value: 5.6296797
+    m_Value: 5.376344
   m_Ortho:
     m_Target: 1
     speed: 2
