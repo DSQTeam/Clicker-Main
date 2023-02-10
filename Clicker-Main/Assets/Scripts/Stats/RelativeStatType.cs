@@ -3,5 +3,6 @@
     None,
     TargetMaxHealth,
     TargetCurrentHealth,
-    OwnerDamage
+    OwnerDamage,
+    TargetDamage
 }

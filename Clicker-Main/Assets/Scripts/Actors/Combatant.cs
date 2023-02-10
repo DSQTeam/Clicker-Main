@@ -139,6 +139,14 @@ public class Combatant : MonoBehaviour, IDamageable, IBodyChangesHandler
         _armor = value;
     }
 
+    public void ChangePercentArmor(int value)
+    {
+        if (value < 0 || value > 100)
+            throw new InvalidOperationException();
+
+        _armor = _armor - (value / 100 * _armor);
+    }
+
     public void OnDiedAnimationEnded()
     {
         DieAnimationEnded?.Invoke(this);
