@@ -39,6 +39,7 @@ public class SpellArgsProvider
             RelativeStatType.TargetMaxHealth => target.Health.MaxValue,
             RelativeStatType.TargetCurrentHealth => target.Health.Value,
             RelativeStatType.OwnerDamage => owner.Damage,
+            RelativeStatType.TargetDamage => target.Damage,
             _ => throw new NotImplementedException()
         };
 
