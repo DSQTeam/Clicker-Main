@@ -26,6 +26,6 @@ public class DamageView : TextView
     {
         yield return new WaitForSeconds(_lifeTimeOnGround);
 
-        Kill();
+        TestKill(gameObject);
     }
 }

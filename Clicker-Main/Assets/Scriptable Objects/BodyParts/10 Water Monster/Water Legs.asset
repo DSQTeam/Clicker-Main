@@ -62,7 +62,7 @@ MonoBehaviour:
       _statName: 9
       _stat:
         UpgradingSettings:
-          UpgradingPercent: 0.023
+          UpgradingPercent: 0
           UpgradingAction: 0
           MaxValue: 25
           MinValue: 2

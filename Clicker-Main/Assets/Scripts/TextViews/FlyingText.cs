@@ -25,6 +25,6 @@ public class FlyingText : TextView
         Text.alpha = Mathf.Lerp(Text.alpha, 0, _fadeSpeed * Time.deltaTime);
 
         if (Text.alpha <= MIN_ALPHA)
-            Kill();
+            TestKill(gameObject);
     }
 }

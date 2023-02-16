@@ -144,7 +144,7 @@ public class Combatant : MonoBehaviour, IDamageable, IBodyChangesHandler
         if (value < 0 || value > 100)
             throw new InvalidOperationException();
 
-        _armor = _armor - (value / 100 * _armor);
+        _armor -= (value / 100 * _armor);
     }
 
     public void OnDiedAnimationEnded()
