@@ -23,7 +23,6 @@ MonoBehaviour:
       _stat:
         UpgradingSettings:
           UpgradingPercent: 0
-          Coefficient: 1
           UpgradingAction: 0
           MaxValue: 0
           MinValue: 0
@@ -34,7 +33,6 @@ MonoBehaviour:
       _stat:
         UpgradingSettings:
           UpgradingPercent: 0
-          Coefficient: 1
           UpgradingAction: 0
           MaxValue: 0
           MinValue: 0
@@ -47,20 +45,18 @@ MonoBehaviour:
       _stat:
         UpgradingSettings:
           UpgradingPercent: 0.14
-          Coefficient: 1
           UpgradingAction: 0
           MaxValue: 0
           MinValue: 0
         _value: 35
+    _damageType: {fileID: 11400000, guid: 928f446cf489ebb4bb68ca29b0062a03, type: 2}
     _autoAttackCooldown:
       _upgradingPerLevel: 1
       _statName: 6
       _stat:
         UpgradingSettings:
           UpgradingPercent: 0
-          Coefficient: 1
           UpgradingAction: 0
           MaxValue: 0
           MinValue: 0
         _value: 0.25
-  _attackModifiers: []

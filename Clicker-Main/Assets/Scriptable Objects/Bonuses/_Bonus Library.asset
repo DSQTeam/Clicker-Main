@@ -33,21 +33,33 @@ MonoBehaviour:
     _bonuses:
     - {fileID: 11400000, guid: d76484b9069c76845a13f3c419369e20, type: 2}
   - _setId: 8
-    _bonuses: []
+    _bonuses:
+    - {fileID: 11400000, guid: 67efecc4d91589f43921c24611beec8e, type: 2}
+    - {fileID: 11400000, guid: fd21fc9f0293edc4cada5065030202ab, type: 2}
   - _setId: 9
-    _bonuses: []
+    _bonuses:
+    - {fileID: 11400000, guid: 7fb9fadc7aa741e4aa4cb07be667daf9, type: 2}
+    - {fileID: 11400000, guid: 8db11107118607a45851527cfc891679, type: 2}
+    - {fileID: 11400000, guid: 22851792b98e6884b8edb0e423c241c1, type: 2}
   - _setId: 10
-    _bonuses: []
+    _bonuses:
+    - {fileID: 11400000, guid: 7b803833fc89a134c8a826e17fe5bf61, type: 2}
   - _setId: 11
-    _bonuses: []
+    _bonuses:
+    - {fileID: 11400000, guid: f98eef64d76558849b575360ac9805e0, type: 2}
   - _setId: 12
     _bonuses:
     - {fileID: 11400000, guid: 15cdd0e8bfa8770428482011708b74ca, type: 2}
+    - {fileID: 11400000, guid: ba416856ff703544faf58c20ae528c97, type: 2}
+    - {fileID: 11400000, guid: b264bd9a2c7b5144ba68ec273d910554, type: 2}
   - _setId: 13
     _bonuses: []
   - _setId: 15
     _bonuses: []
   - _setId: 17
-    _bonuses: []
+    _bonuses:
+    - {fileID: 11400000, guid: 40c1638716016ca43a8fcf770f06c5d0, type: 2}
+    - {fileID: 11400000, guid: 36448fc77c41903489f7c06ecb275c3a, type: 2}
   - _setId: 18
-    _bonuses: []
+    _bonuses:
+    - {fileID: 11400000, guid: bc90ea52e17891846bdaab24778ed569, type: 2}

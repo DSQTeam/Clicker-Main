@@ -18,7 +18,7 @@ MonoBehaviour:
   _background: {fileID: 21300000, guid: b41996cd92e157645a71c6c5d6bffb90, type: 3}
   _music: {fileID: 8300000, guid: 3b074e4ddcad3874398709382763e876, type: 3}
   _enemyPosition: {x: 0, y: -2.35}
-  _playerPosition: {x: -14.13, y: -2.92}
+  _playerPosition: {x: -5, y: -2.92}
   _particleSystemPosition: {x: 0, y: 0}
   _boss: {fileID: 11400000, guid: 3fb3d8e49a253a9499548b8adbfdca5f, type: 2}
   _waves:

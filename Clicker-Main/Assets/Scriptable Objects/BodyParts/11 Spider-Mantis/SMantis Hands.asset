@@ -49,7 +49,7 @@ MonoBehaviour:
           MaxValue: 0
           MinValue: 20
         _value: 20
-    _damageType: {fileID: 0}
+    _damageType: {fileID: 11400000, guid: 928f446cf489ebb4bb68ca29b0062a03, type: 2}
     _autoAttackCooldown:
       _upgradingPerLevel: 1
       _statName: 6

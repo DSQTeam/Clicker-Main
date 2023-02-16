@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72a7e687b632a9347a1606811634a711, type: 3}
+  m_Name: Freezer Avalavce
+  m_EditorClassIdentifier: 
+  _id: -79390
+  _icon: {fileID: 0}
+  _label: 
+  _cooldown: 10
+  _manaCostInPercent: 30
+  _needEnemyToUse: 1
+  _spellElements:
+  - {fileID: 11400000, guid: 6b2c40a855ab3c949a5605e20f1a400c, type: 2}
+  - {fileID: 11400000, guid: cdaef3d62bbca65429108429bfa3d859, type: 2}

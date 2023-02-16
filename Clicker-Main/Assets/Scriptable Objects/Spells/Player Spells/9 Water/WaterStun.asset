@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _id: -13206
   _icon: {fileID: 0}
-  _label: 
+  _label: Buble
   _cooldown: 5
   _manaCostInPercent: 20
   _needEnemyToUse: 1

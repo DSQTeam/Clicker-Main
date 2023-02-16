@@ -39,6 +39,7 @@ MonoBehaviour:
         _value: 0
     _spells:
     - {fileID: 11400000, guid: 26ff842613ce5a040a56e9a36d582502, type: 2}
+    - {fileID: 11400000, guid: 2e8d098fbb04dc849843f913c6813982, type: 2}
     _removedSpells: []
     _maxMana:
       _upgradingPerLevel: 1
@@ -47,8 +48,8 @@ MonoBehaviour:
         UpgradingSettings:
           UpgradingPercent: 0
           UpgradingAction: 0
-          MaxValue: 0
-          MinValue: 0
+          MaxValue: 1000
+          MinValue: 100
         _value: 100
     _manaRegeneration:
       _upgradingPerLevel: 1
@@ -58,5 +59,5 @@ MonoBehaviour:
           UpgradingPercent: 0
           UpgradingAction: 0
           MaxValue: 0
-          MinValue: 0
+          MinValue: 2
         _value: 2

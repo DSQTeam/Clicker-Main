@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Water Random
   m_EditorClassIdentifier: 
   _owner: 0
-  _target: 1
+  _target: 0
   _elements:
   - {fileID: 0}
   - {fileID: 0}

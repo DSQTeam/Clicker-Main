@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 834f79d5a1d0c8f40afb465d5a49ec58, type: 3}
+  m_Name: Freezer ArDChunce
+  m_EditorClassIdentifier: 
+  _owner: 0
+  _target: 1
+  _chance: 5
+  _element: {fileID: 11400000, guid: 6b2c40a855ab3c949a5605e20f1a400c, type: 2}

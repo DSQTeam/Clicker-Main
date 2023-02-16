@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _id: -21220
   _icon: {fileID: 0}
-  _label: 
-  _cooldown: 30
+  _label: Heal
+  _cooldown: 60
   _manaCostInPercent: 10
   _needEnemyToUse: 0
   _spellElements:
