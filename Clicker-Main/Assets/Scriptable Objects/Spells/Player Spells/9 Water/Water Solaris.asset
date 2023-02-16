@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _id: -16660
   _icon: {fileID: 0}
-  _label: 
+  _label: Solaris
   _cooldown: 10
   _manaCostInPercent: 10
   _needEnemyToUse: 0

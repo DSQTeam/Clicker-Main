@@ -10,13 +10,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 72a7e687b632a9347a1606811634a711, type: 3}
-  m_Name: new Spell
+  m_Name: SpiderM Web
   m_EditorClassIdentifier: 
-  _id: 0
-  _icon: {fileID: 3493087910146135019, guid: 40129b9cebce88242978778801a70118, type: 3}
-  _label: asd
-  _cooldown: 1.2
+  _id: -7690
+  _icon: {fileID: 0}
+  _label: Web
+  _cooldown: 10
   _manaCostInPercent: 10
   _needEnemyToUse: 1
   _spellElements:
-  - {fileID: 11400000, guid: 4e6d7e6d3026bef43b84f651dfe9aeae, type: 2}
+  - {fileID: 11400000, guid: 44679f0a59399ed42866e0a83833a562, type: 2}
+  - {fileID: 11400000, guid: e15aba821f74f494f9a2753cb2323891, type: 2}

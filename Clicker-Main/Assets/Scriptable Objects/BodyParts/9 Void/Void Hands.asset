@@ -37,7 +37,8 @@ MonoBehaviour:
           MaxValue: 0
           MinValue: 0
         _value: 0
-    _spells: []
+    _spells:
+    - {fileID: 11400000, guid: 955ca3345eb626943bb19c61de244360, type: 2}
     _removedSpells: []
     _damage:
       _upgradingPerLevel: 1
@@ -49,7 +50,7 @@ MonoBehaviour:
           MaxValue: 0
           MinValue: 35
         _value: 35
-    _damageType: {fileID: 0}
+    _damageType: {fileID: 11400000, guid: 928f446cf489ebb4bb68ca29b0062a03, type: 2}
     _autoAttackCooldown:
       _upgradingPerLevel: 1
       _statName: 6

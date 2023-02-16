@@ -17,5 +17,5 @@ MonoBehaviour:
   _damage:
     _value: 40
     _relation: 1
-    _relativeTo: 0
+    _relativeTo: 4
   _damageType: {fileID: 11400000, guid: fb44c6826be40cd4a8161185a9725cc0, type: 2}

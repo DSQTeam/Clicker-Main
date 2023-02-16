@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Blade Male
   m_EditorClassIdentifier: 
   _owner: 0
-  _target: 0
-  _element: {fileID: 0}
-  _duration: 1
+  _target: 1
+  _element: {fileID: 11400000, guid: 981e08d06c5dc45409bb62025958453d, type: 2}
+  _duration: 10
   _disableOnTargetChanged: 0

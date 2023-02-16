@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 87f568ad85488464aa468f2337651a5b, type: 3}
   m_Name: Test1
   m_EditorClassIdentifier: 
-  MaxHealth: 70
+  MaxHealth: 300
   Damage: 5
   DamageType: {fileID: 11400000, guid: 928f446cf489ebb4bb68ca29b0062a03, type: 2}
   CritDamageInPercent: 120
@@ -21,7 +21,6 @@ MonoBehaviour:
   DodgeChance: 10
   AttackCooldown: 0.7
   AttackCooldownSpread: 0.2
-  StatIncreasePercent: 20
   AttackModifiers: []
   ManaRegen: 0
   MaxMana: 0

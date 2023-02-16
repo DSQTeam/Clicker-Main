@@ -37,7 +37,8 @@ MonoBehaviour:
           MaxValue: 0
           MinValue: 0
         _value: 0
-    _spells: []
+    _spells:
+    - {fileID: 11400000, guid: 298f8c36d91e6b64fadc9ec5deaa0532, type: 2}
     _removedSpells: []
     _maxMana:
       _upgradingPerLevel: 1

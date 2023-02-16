@@ -16,5 +16,5 @@ MonoBehaviour:
   _target: 0
   _amount:
     _value: 25
-    _relation: 0
-    _relativeTo: 0
+    _relation: 1
+    _relativeTo: 1
