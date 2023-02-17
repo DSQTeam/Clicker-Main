@@ -12,6 +12,7 @@ public class EnemyStaticData : ScriptableObject
     public int DodgeChance;
     public float AttackCooldown;
     public float AttackCooldownSpread;
+    public bool IsSuperior;
     public Spell[] AttackModifiers;
     public int ManaRegen;
     public int MaxMana;

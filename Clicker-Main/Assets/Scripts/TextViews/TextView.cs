@@ -18,4 +18,9 @@ public class TextView : MonoBehaviour
     {
         Kill = kill;
     }
+
+    public void TestKill(GameObject getObject)
+    {
+        Destroy(getObject);
+    }
 }
