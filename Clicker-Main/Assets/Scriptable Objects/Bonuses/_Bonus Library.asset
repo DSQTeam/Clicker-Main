@@ -55,7 +55,8 @@ MonoBehaviour:
   - _setId: 13
     _bonuses: []
   - _setId: 15
-    _bonuses: []
+    _bonuses:
+    - {fileID: 11400000, guid: 1bd22e83d83d3c848b553482d3c1d4ab, type: 2}
   - _setId: 17
     _bonuses:
     - {fileID: 11400000, guid: 40c1638716016ca43a8fcf770f06c5d0, type: 2}

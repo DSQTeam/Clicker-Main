@@ -17,7 +17,7 @@ MonoBehaviour:
   AADamageCutPercentage: 0.4
   RespawnDelay: 2
   DefaultBody:
-    Head: {fileID: 11400000, guid: 177d0c9fe4f69c546b575d467e53a585, type: 2}
-    Corpus: {fileID: 11400000, guid: cdc0d5abd28ba364bbe32f12bbf4319e, type: 2}
-    Hands: {fileID: 11400000, guid: 7cd8f59a55c682e4aa4def43a4876f75, type: 2}
-    Legs: {fileID: 11400000, guid: 88576b4caed94db4dbd749618922e48f, type: 2}
+    Head: {fileID: 11400000, guid: 225822dc81d451840bc1bca23e9c8275, type: 2}
+    Corpus: {fileID: 11400000, guid: 9f5026b2c06451f48829012c615cbcb8, type: 2}
+    Hands: {fileID: 11400000, guid: 331ff730566312640ba95b4dcafeaa4a, type: 2}
+    Legs: {fileID: 11400000, guid: e60b7ce080542b94b8be224be237b4fb, type: 2}
