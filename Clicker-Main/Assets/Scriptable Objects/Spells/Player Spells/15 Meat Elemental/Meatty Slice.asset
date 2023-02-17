@@ -15,9 +15,9 @@ MonoBehaviour:
   _id: -3330
   _icon: {fileID: 0}
   _label: 
-  _cooldown: 3
+  _cooldown: 5
   _manaCostInPercent: 10
   _needEnemyToUse: 1
   _spellElements:
-  - {fileID: 11400000, guid: d5830b1a4c403ee4c9451be9b9f0f578, type: 2}
   - {fileID: 11400000, guid: 11c21ed7d16cbf049b2a994b4c6ecff0, type: 2}
+  - {fileID: 11400000, guid: d5830b1a4c403ee4c9451be9b9f0f578, type: 2}

@@ -21,6 +21,7 @@ MonoBehaviour:
   DodgeChance: 0
   AttackCooldown: 0.75
   AttackCooldownSpread: 0.4
+  IsSuperior: 1
   AttackModifiers: []
   ManaRegen: 0
   MaxMana: 0

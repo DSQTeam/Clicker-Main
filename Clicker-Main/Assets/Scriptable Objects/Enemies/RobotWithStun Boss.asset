@@ -21,6 +21,7 @@ MonoBehaviour:
   DodgeChance: 0
   AttackCooldown: 0.5
   AttackCooldownSpread: 0.5
+  IsSuperior: 1
   AttackModifiers:
   - {fileID: 11400000, guid: f9e32f5d7d6db774abad4b2685840a36, type: 2}
   ManaRegen: 0
