@@ -9,10 +9,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d77700c6dd92220479dd7327d9ff28dd, type: 3}
-  m_Name: Racoon Hands
+  m_Script: {fileID: 11500000, guid: 9b40cde354951eb408abc79a97296dff, type: 3}
+  m_Name: Racoon Legs
   m_EditorClassIdentifier: 
-  _hands:
+  Legs:
     _setId: 1
     _level: 0
     _icon: {fileID: 0}
@@ -22,41 +22,48 @@ MonoBehaviour:
       _statName: 50
       _stat:
         UpgradingSettings:
-          UpgradingPercent: 0
+          UpgradingPercent: 0.075
           UpgradingAction: 0
-          MaxValue: 0
-          MinValue: 0
-        _value: 5
+          MaxValue: 20200
+          MinValue: 15
+        _value: 15
     _upgradePrice:
       _upgradingPerLevel: 1
       _statName: 51
       _stat:
         UpgradingSettings:
-          UpgradingPercent: 0
+          UpgradingPercent: 0.075
           UpgradingAction: 0
-          MaxValue: 0
-          MinValue: 0
-        _value: 5
-    _spells: []
-    _removedSpells: []
-    _damage:
-      _upgradingPerLevel: 1
-      _statName: 5
+          MaxValue: 41700
+          MinValue: 30
+        _value: 30
+    _critChance:
+      _upgradingPerLevel: 10
+      _statName: 7
       _stat:
         UpgradingSettings:
-          UpgradingPercent: 0.08
+          UpgradingPercent: 0.014
           UpgradingAction: 0
-          MaxValue: 1000
-          MinValue: 20
-        _value: 20
-    _damageType: {fileID: 11400000, guid: 928f446cf489ebb4bb68ca29b0062a03, type: 2}
-    _autoAttackCooldown:
+          MaxValue: 15
+          MinValue: 1
+        _value: 1
+    _critDamageInPercent:
       _upgradingPerLevel: 0
-      _statName: 6
+      _statName: 8
       _stat:
         UpgradingSettings:
           UpgradingPercent: 0
           UpgradingAction: 0
-          MaxValue: 0
-          MinValue: 0
+          MaxValue: 150
+          MinValue: 150
+        _value: 150
+    _dodgeChance:
+      _upgradingPerLevel: 10
+      _statName: 9
+      _stat:
+        UpgradingSettings:
+          UpgradingPercent: 0.009
+          UpgradingAction: 0
+          MaxValue: 10
+          MinValue: 1
         _value: 1

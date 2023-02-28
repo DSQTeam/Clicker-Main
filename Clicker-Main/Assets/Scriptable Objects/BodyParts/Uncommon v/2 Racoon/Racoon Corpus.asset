@@ -22,21 +22,21 @@ MonoBehaviour:
       _statName: 50
       _stat:
         UpgradingSettings:
-          UpgradingPercent: 0
+          UpgradingPercent: 0.075
           UpgradingAction: 0
-          MaxValue: 0
-          MinValue: 0
-        _value: 0
+          MaxValue: 20200
+          MinValue: 15
+        _value: 15
     _upgradePrice:
       _upgradingPerLevel: 1
       _statName: 51
       _stat:
         UpgradingSettings:
-          UpgradingPercent: 0
+          UpgradingPercent: 0.075
           UpgradingAction: 0
-          MaxValue: 0
-          MinValue: 0
-        _value: 0
+          MaxValue: 41700
+          MinValue: 30
+        _value: 30
     _maxHealth:
       _upgradingPerLevel: 1
       _statName: 2
@@ -44,7 +44,7 @@ MonoBehaviour:
         UpgradingSettings:
           UpgradingPercent: 0.1
           UpgradingAction: 0
-          MaxValue: 10000
+          MaxValue: 1388907
           MinValue: 100
         _value: 100
     _healthRegeneration:
@@ -54,9 +54,9 @@ MonoBehaviour:
         UpgradingSettings:
           UpgradingPercent: 0.1
           UpgradingAction: 0
-          MaxValue: 50
-          MinValue: 1
-        _value: 1
+          MaxValue: 85333
+          MinValue: 5
+        _value: 5
     _armor:
       _upgradingPerLevel: 0
       _statName: 3

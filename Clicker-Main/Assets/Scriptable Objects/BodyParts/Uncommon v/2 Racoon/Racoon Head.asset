@@ -22,21 +22,21 @@ MonoBehaviour:
       _statName: 50
       _stat:
         UpgradingSettings:
-          UpgradingPercent: 0
+          UpgradingPercent: 0.075
           UpgradingAction: 0
-          MaxValue: 0
-          MinValue: 0
-        _value: 0
+          MaxValue: 20200
+          MinValue: 15
+        _value: 15
     _upgradePrice:
       _upgradingPerLevel: 1
       _statName: 51
       _stat:
         UpgradingSettings:
-          UpgradingPercent: 5
+          UpgradingPercent: 0.075
           UpgradingAction: 0
-          MaxValue: 0
-          MinValue: 0
-        _value: 5
+          MaxValue: 41700
+          MinValue: 30
+        _value: 30
     _spells:
     - {fileID: 11400000, guid: b6b665943489b754baa7cbdd4c1ccea0, type: 2}
     _removedSpells: []
@@ -58,5 +58,5 @@ MonoBehaviour:
           UpgradingPercent: 0.1
           UpgradingAction: 0
           MaxValue: 50
-          MinValue: 1
-        _value: 1
+          MinValue: 5
+        _value: 5
