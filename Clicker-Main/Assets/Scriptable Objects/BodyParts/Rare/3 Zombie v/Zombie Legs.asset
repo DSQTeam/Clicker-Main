@@ -22,30 +22,27 @@ MonoBehaviour:
       _statName: 50
       _stat:
         UpgradingSettings:
-          UpgradingPercent: 0
-          Coefficient: 1
+          UpgradingPercent: 0.075
           UpgradingAction: 0
-          MaxValue: 0
-          MinValue: 0
-        _value: 0
+          MaxValue: 30000
+          MinValue: 20
+        _value: 20
     _upgradePrice:
       _upgradingPerLevel: 1
       _statName: 51
       _stat:
         UpgradingSettings:
-          UpgradingPercent: 0
-          Coefficient: 1
+          UpgradingPercent: 0.075
           UpgradingAction: 0
-          MaxValue: 0
-          MinValue: 0
-        _value: 0
+          MaxValue: 56000
+          MinValue: 40
+        _value: 40
     _critChance:
       _upgradingPerLevel: 10
       _statName: 7
       _stat:
         UpgradingSettings:
           UpgradingPercent: 0.014
-          Coefficient: 1
           UpgradingAction: 0
           MaxValue: 15
           MinValue: 1
@@ -56,7 +53,6 @@ MonoBehaviour:
       _stat:
         UpgradingSettings:
           UpgradingPercent: 0
-          Coefficient: 1
           UpgradingAction: 0
           MaxValue: 150
           MinValue: 150
@@ -67,7 +63,6 @@ MonoBehaviour:
       _stat:
         UpgradingSettings:
           UpgradingPercent: 0.009
-          Coefficient: 1
           UpgradingAction: 0
           MaxValue: 10
           MinValue: 1

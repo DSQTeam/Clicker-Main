@@ -9,10 +9,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d77700c6dd92220479dd7327d9ff28dd, type: 3}
-  m_Name: Mecha Hands
+  m_Script: {fileID: 11500000, guid: 9b40cde354951eb408abc79a97296dff, type: 3}
+  m_Name: Mecha Legs
   m_EditorClassIdentifier: 
-  _hands:
+  Legs:
     _setId: 7
     _level: 0
     _icon: {fileID: 0}
@@ -22,41 +22,48 @@ MonoBehaviour:
       _statName: 50
       _stat:
         UpgradingSettings:
-          UpgradingPercent: 0
+          UpgradingPercent: 0.075
           UpgradingAction: 0
-          MaxValue: 0
-          MinValue: 0
-        _value: 0
+          MaxValue: 15000
+          MinValue: 10
+        _value: 10
     _upgradePrice:
       _upgradingPerLevel: 1
       _statName: 51
       _stat:
         UpgradingSettings:
+          UpgradingPercent: 0.075
+          UpgradingAction: 0
+          MaxValue: 30000
+          MinValue: 20
+        _value: 20
+    _critChance:
+      _upgradingPerLevel: 10
+      _statName: 7
+      _stat:
+        UpgradingSettings:
+          UpgradingPercent: 0.013
+          UpgradingAction: 0
+          MaxValue: 15
+          MinValue: 2
+        _value: 2
+    _critDamageInPercent:
+      _upgradingPerLevel: 101
+      _statName: 8
+      _stat:
+        UpgradingSettings:
+          UpgradingPercent: 0
+          UpgradingAction: 0
+          MaxValue: 150
+          MinValue: 150
+        _value: 150
+    _dodgeChance:
+      _upgradingPerLevel: 101
+      _statName: 9
+      _stat:
+        UpgradingSettings:
           UpgradingPercent: 0
           UpgradingAction: 0
           MaxValue: 0
           MinValue: 0
         _value: 0
-    _spells: []
-    _removedSpells: []
-    _damage:
-      _upgradingPerLevel: 1
-      _statName: 5
-      _stat:
-        UpgradingSettings:
-          UpgradingPercent: 0.08
-          UpgradingAction: 0
-          MaxValue: 0
-          MinValue: 0
-        _value: 20
-    _damageType: {fileID: 11400000, guid: 928f446cf489ebb4bb68ca29b0062a03, type: 2}
-    _autoAttackCooldown:
-      _upgradingPerLevel: 1
-      _statName: 6
-      _stat:
-        UpgradingSettings:
-          UpgradingPercent: 0
-          UpgradingAction: 0
-          MaxValue: 0
-          MinValue: 0
-        _value: 0.5

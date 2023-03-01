@@ -44,7 +44,7 @@ MonoBehaviour:
         UpgradingSettings:
           UpgradingPercent: 0.1
           UpgradingAction: 0
-          MaxValue: 1388907
+          MaxValue: 1390000
           MinValue: 100
         _value: 100
     _healthRegeneration:
@@ -52,7 +52,7 @@ MonoBehaviour:
       _statName: 4
       _stat:
         UpgradingSettings:
-          UpgradingPercent: 0.1
+          UpgradingPercent: 0.1000001
           UpgradingAction: 0
           MaxValue: 85333
           MinValue: 5

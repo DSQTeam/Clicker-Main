@@ -2652,7 +2652,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2013764412847187440, guid: 9fc0174352a7b1e4fb388b7a916e661e, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0.00091559836
+      value: -0.000021693784
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9fc0174352a7b1e4fb388b7a916e661e, type: 3}
@@ -3609,7 +3609,7 @@ MonoBehaviour:
   _locationsStaticData: {fileID: 11400000, guid: 8cf89a682ccc1754cba632114aedeee2, type: 2}
   _enemySpawnDelay: 1
   _wallet:
-    _gold: 200000
+    _gold: 20000000
   _traveler:
     _currentLocationIndex: 0
     _currentWaveIndex: 0

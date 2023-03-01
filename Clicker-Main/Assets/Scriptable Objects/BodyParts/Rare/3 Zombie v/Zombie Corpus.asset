@@ -9,11 +9,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 12a534d82d2a59949a30065e21fcfa2b, type: 3}
-  m_Name: Mecha Head
+  m_Script: {fileID: 11500000, guid: f76c2d0b6461b43449902745ed25e138, type: 3}
+  m_Name: Zombie Corpus
   m_EditorClassIdentifier: 
-  _head:
-    _setId: 7
+  Corpus:
+    _setId: 5
     _level: 0
     _icon: {fileID: 0}
     _label: 
@@ -22,40 +22,48 @@ MonoBehaviour:
       _statName: 50
       _stat:
         UpgradingSettings:
-          UpgradingPercent: 0
+          UpgradingPercent: 0.075
           UpgradingAction: 0
-          MaxValue: 0
-          MinValue: 0
-        _value: 0
+          MaxValue: 30000
+          MinValue: 20
+        _value: 20
     _upgradePrice:
       _upgradingPerLevel: 1
       _statName: 51
       _stat:
         UpgradingSettings:
-          UpgradingPercent: 0
+          UpgradingPercent: 0.075
           UpgradingAction: 0
-          MaxValue: 0
-          MinValue: 0
-        _value: 0
-    _spells: []
-    _removedSpells: []
-    _maxMana:
+          MaxValue: 56000
+          MinValue: 40
+        _value: 40
+    _maxHealth:
       _upgradingPerLevel: 1
-      _statName: 0
+      _statName: 2
+      _stat:
+        UpgradingSettings:
+          UpgradingPercent: 0.1
+          UpgradingAction: 0
+          MaxValue: 2071000
+          MinValue: 150
+        _value: 150
+    _healthRegeneration:
+      _upgradingPerLevel: 1
+      _statName: 4
+      _stat:
+        UpgradingSettings:
+          UpgradingPercent: 0.1
+          UpgradingAction: 0
+          MaxValue: 104000
+          MinValue: 7
+        _value: 7
+    _armor:
+      _upgradingPerLevel: 101
+      _statName: 3
       _stat:
         UpgradingSettings:
           UpgradingPercent: 0
           UpgradingAction: 0
-          MaxValue: 0
-          MinValue: 0
-        _value: 0
-    _manaRegeneration:
-      _upgradingPerLevel: 1
-      _statName: 1
-      _stat:
-        UpgradingSettings:
-          UpgradingPercent: 0
-          UpgradingAction: 0
-          MaxValue: 0
-          MinValue: 0
-        _value: 0
+          MaxValue: 13
+          MinValue: 13
+        _value: 13

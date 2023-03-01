@@ -47,7 +47,7 @@ MonoBehaviour:
         UpgradingSettings:
           UpgradingPercent: 0.1
           UpgradingAction: 0
-          MaxValue: 10000
+          MaxValue: 1390000
           MinValue: 100
         _value: 100
     _manaRegeneration:
@@ -55,8 +55,8 @@ MonoBehaviour:
       _statName: 1
       _stat:
         UpgradingSettings:
-          UpgradingPercent: 0.1
+          UpgradingPercent: 0.1000001
           UpgradingAction: 0
-          MaxValue: 50
+          MaxValue: 85333
           MinValue: 5
         _value: 5
