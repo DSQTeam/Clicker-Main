@@ -10,13 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f76c2d0b6461b43449902745ed25e138, type: 3}
-  m_Name: Mecha Corpus
+  m_Name: NDrifter Corpus
   m_EditorClassIdentifier: 
   Corpus:
-    _setId: 7
+    _setId: 17
     _level: 0
     _icon: {fileID: 0}
-    _label: 
+    _label: NightDrifter Corpus
     _price:
       _upgradingPerLevel: 1
       _statName: 50
@@ -24,9 +24,9 @@ MonoBehaviour:
         UpgradingSettings:
           UpgradingPercent: 0.075
           UpgradingAction: 0
-          MaxValue: 15000
-          MinValue: 10
-        _value: 10
+          MaxValue: 30000
+          MinValue: 20
+        _value: 20
     _upgradePrice:
       _upgradingPerLevel: 1
       _statName: 51
@@ -34,9 +34,9 @@ MonoBehaviour:
         UpgradingSettings:
           UpgradingPercent: 0.075
           UpgradingAction: 0
-          MaxValue: 30000
-          MinValue: 20
-        _value: 20
+          MaxValue: 56000
+          MinValue: 40
+        _value: 40
     _maxHealth:
       _upgradingPerLevel: 1
       _statName: 2
@@ -44,9 +44,9 @@ MonoBehaviour:
         UpgradingSettings:
           UpgradingPercent: 0.1
           UpgradingAction: 0
-          MaxValue: 1390000
-          MinValue: 100
-        _value: 100
+          MaxValue: 2071000
+          MinValue: 150
+        _value: 150
     _healthRegeneration:
       _upgradingPerLevel: 1
       _statName: 4
@@ -54,9 +54,9 @@ MonoBehaviour:
         UpgradingSettings:
           UpgradingPercent: 0.1
           UpgradingAction: 0
-          MaxValue: 85500
-          MinValue: 5
-        _value: 5
+          MaxValue: 104000
+          MinValue: 7
+        _value: 7
     _armor:
       _upgradingPerLevel: 101
       _statName: 3
@@ -64,6 +64,6 @@ MonoBehaviour:
         UpgradingSettings:
           UpgradingPercent: 0
           UpgradingAction: 0
-          MaxValue: 75
-          MinValue: 75
-        _value: 75
+          MaxValue: 0
+          MinValue: 0
+        _value: 0

@@ -9,14 +9,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f76c2d0b6461b43449902745ed25e138, type: 3}
-  m_Name: Mecha Corpus
+  m_Script: {fileID: 11500000, guid: 12a534d82d2a59949a30065e21fcfa2b, type: 3}
+  m_Name: APorcupine Head
   m_EditorClassIdentifier: 
-  Corpus:
-    _setId: 7
+  _head:
+    _setId: 12
     _level: 0
     _icon: {fileID: 0}
-    _label: 
+    _label: Armadillo-Porcupine Head
     _price:
       _upgradingPerLevel: 1
       _statName: 50
@@ -24,9 +24,9 @@ MonoBehaviour:
         UpgradingSettings:
           UpgradingPercent: 0.075
           UpgradingAction: 0
-          MaxValue: 15000
-          MinValue: 10
-        _value: 10
+          MaxValue: 30000
+          MinValue: 20
+        _value: 20
     _upgradePrice:
       _upgradingPerLevel: 1
       _statName: 51
@@ -34,36 +34,29 @@ MonoBehaviour:
         UpgradingSettings:
           UpgradingPercent: 0.075
           UpgradingAction: 0
-          MaxValue: 30000
-          MinValue: 20
-        _value: 20
-    _maxHealth:
+          MaxValue: 56000
+          MinValue: 40
+        _value: 40
+    _spells:
+    - {fileID: 11400000, guid: 95480fb7e3802304b9746fe7a3e9ec11, type: 2}
+    _removedSpells: []
+    _maxMana:
       _upgradingPerLevel: 1
-      _statName: 2
+      _statName: 0
       _stat:
         UpgradingSettings:
           UpgradingPercent: 0.1
           UpgradingAction: 0
-          MaxValue: 1390000
-          MinValue: 100
-        _value: 100
-    _healthRegeneration:
+          MaxValue: 1731000
+          MinValue: 125
+        _value: 125
+    _manaRegeneration:
       _upgradingPerLevel: 1
-      _statName: 4
+      _statName: 1
       _stat:
         UpgradingSettings:
           UpgradingPercent: 0.1
           UpgradingAction: 0
-          MaxValue: 85500
-          MinValue: 5
-        _value: 5
-    _armor:
-      _upgradingPerLevel: 101
-      _statName: 3
-      _stat:
-        UpgradingSettings:
-          UpgradingPercent: 0
-          UpgradingAction: 0
-          MaxValue: 75
-          MinValue: 75
-        _value: 75
+          MaxValue: 94000
+          MinValue: 6
+        _value: 6
