@@ -8,6 +8,7 @@ public class SpellView : MonoBehaviour, IPointerClickHandler
     [SerializeField] private Image _icon;
     [SerializeField] private CooldownPanel _cooldownPanel;
     [SerializeField] private Image _notAvailablePanel;
+    [SerializeField] private AudioSource _spellSound;
 
     private Mana _userMana;
 
@@ -37,6 +38,7 @@ public class SpellView : MonoBehaviour, IPointerClickHandler
         if (_notAvailablePanel.gameObject.activeSelf == false)
         {
             Clicked?.Invoke(this);
+            _spellSound.Play();
         }
     }
 

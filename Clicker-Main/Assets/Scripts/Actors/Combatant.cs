@@ -6,6 +6,9 @@ using UnityEngine;
 public class Combatant : MonoBehaviour, IDamageable, IBodyChangesHandler
 {
     [SerializeField] private HealthBar _healthBar;
+    [SerializeField] private AudioSource _damageSound;
+    [SerializeField] private AudioSource _deathSound;
+    [SerializeField] private AudioSource _missSound;
 
     private int _damage;
     private int _armor;
@@ -82,6 +85,7 @@ public class Combatant : MonoBehaviour, IDamageable, IBodyChangesHandler
         if (type.Avoidable && TryChance(_dodgeChance))
         {
             _animator.OnDodged();
+            _missSound.Play();
             return;
         }
 
@@ -90,6 +94,7 @@ public class Combatant : MonoBehaviour, IDamageable, IBodyChangesHandler
 
         _health.TakeDamage(damage, type);
         _animator.OnDamageTaken(damage, type);
+        _damageSound.Play();
     }
 
     public void SetTarget(Combatant target)
@@ -190,10 +195,10 @@ public class Combatant : MonoBehaviour, IDamageable, IBodyChangesHandler
     private void Attack()
     {
         _modifiedDamage += TryChance(_critChance) ? GetCritDamage(_damage) : 0;
-
+        
         SpellUser.TryUse(AttackModifiers);
-
         Target.TakeDamage(_modifiedDamage, DamageType);
+
 
         _isAttacking = false;
     }
@@ -210,6 +215,7 @@ public class Combatant : MonoBehaviour, IDamageable, IBodyChangesHandler
 
         AutoAttacker.Stop();
         SpellUser.ManaRegeneration.StopRegeneration();
+        _deathSound.Play();
         _animator.OnDied();
     }
 

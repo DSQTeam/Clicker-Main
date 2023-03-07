@@ -10,6 +10,8 @@ public class SelectedWaveBox : MonoBehaviour, IPointerEnterHandler, IPointerExit
     [SerializeField] private TMP_Text _buyPreviousWavesMessage;
     [SerializeField] private Button _buyButton;
     [SerializeField] private Button _travelButton;
+    [SerializeField] private AudioSource _buySound;
+    [SerializeField] private AudioSource _travelSound;
 
     private Player _player;
     private Location _location;
@@ -77,6 +79,7 @@ public class SelectedWaveBox : MonoBehaviour, IPointerEnterHandler, IPointerExit
             _travelButton.gameObject.SetActive(true);
             _text.gameObject.SetActive(false);
             _buyButton.gameObject.SetActive(false);
+            _buySound.Play();
 
             Bought?.Invoke(_location.Index, _waveIndex);
         }

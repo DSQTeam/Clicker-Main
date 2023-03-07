@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 87f568ad85488464aa468f2337651a5b, type: 3}
-  m_Name: test boss
+  m_Name: Test boss
   m_EditorClassIdentifier: 
   MaxHealth: 200
   Damage: 15
