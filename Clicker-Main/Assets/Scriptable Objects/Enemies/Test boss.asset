@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 87f568ad85488464aa468f2337651a5b, type: 3}
   m_Name: Test boss
   m_EditorClassIdentifier: 
-  MaxHealth: 200
-  Damage: 15
+  MaxHealth: 1000
+  Damage: 20
   DamageType: {fileID: 11400000, guid: 928f446cf489ebb4bb68ca29b0062a03, type: 2}
-  CritDamageInPercent: 100
+  CritDamageInPercent: 150
   CritChance: 5
   Armor: 30
   DodgeChance: 10

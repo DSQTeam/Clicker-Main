@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: BP Generation Settings
   m_EditorClassIdentifier: 
   StatsMaxSpreadPercent: 20
-  UpgradesPerWave: 4
+  UpgradesPerWave: 1

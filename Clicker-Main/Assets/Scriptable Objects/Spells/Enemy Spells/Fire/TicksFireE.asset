@@ -20,6 +20,6 @@ MonoBehaviour:
     _relation: 1
     _relativeTo: 1
   _damageLimit: 0
-  _damageType: {fileID: 11400000, guid: 9573ba8034939d748ad90f5b61cf109b, type: 2}
+  _damageType: {fileID: 11400000, guid: ecbb1c13a60a6dc479e2674c9449d69c, type: 2}
   _ticksAmount: 10
   _tickInterval: 0.2
