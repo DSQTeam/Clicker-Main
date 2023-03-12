@@ -46,7 +46,7 @@ MonoBehaviour:
         UpgradingSettings:
           UpgradingPercent: 0.2
           UpgradingAction: 0
-          MaxValue: 400
+          MaxValue: 1000000
           MinValue: 0
         _value: 20
     _damageType: {fileID: 11400000, guid: 928f446cf489ebb4bb68ca29b0062a03, type: 2}
@@ -57,6 +57,6 @@ MonoBehaviour:
         UpgradingSettings:
           UpgradingPercent: 0
           UpgradingAction: 0
-          MaxValue: 0
-          MinValue: 0
+          MaxValue: 2
+          MinValue: 1
         _value: 2
