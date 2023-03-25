@@ -16,7 +16,7 @@ MonoBehaviour:
   _icon: {fileID: 0}
   _label: 
   _cooldown: 0
-  _manaCostInPercent: 2
+  _manaCostInPercent: 1
   _needEnemyToUse: 1
   _spellElements:
   - {fileID: 11400000, guid: 8c1e670c015d32b47860d85dd2344ea0, type: 2}
