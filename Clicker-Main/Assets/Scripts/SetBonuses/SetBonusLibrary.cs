@@ -11,9 +11,7 @@ public class SetBonusLibrary : ScriptableObject
 
     public void SetInstance()
     {
-        Instance = Instance == null 
-            ? this 
-            : throw new InvalidOperationException();
+        Instance = this;
     }
 
     public SetBonus GetElement(SetId id)

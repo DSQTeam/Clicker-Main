@@ -53,6 +53,7 @@ public class Game : MonoBehaviour
     private void Awake()
     {
         _coroutineMaster.SetInstance();
+
         _setBonusLibrary.SetInstance();
 
         InitPlayer();
