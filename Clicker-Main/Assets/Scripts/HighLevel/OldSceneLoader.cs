@@ -3,7 +3,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
-public class SceneLoader : MonoBehaviour
+public class OldSceneLoader : MonoBehaviour
 {
     [SerializeField] private SceneIndexes _scene;
     [SerializeField] private Slider _progressBar;
