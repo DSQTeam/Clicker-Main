@@ -18,8 +18,7 @@ public class SpellArgsProvider
         GameFactory = gameFactory;
         AttackListener = attackListener;
 
-        Instance = Instance == null 
-            ? this : throw new InvalidOperationException();
+        Instance = this;
     }
 
     public void OnTargetChanged(Combatant enemy)
